@@ -1,6 +1,6 @@
-# Hollow Console Application
+# Process Hollowing 
 
-This console application demonstrates the technique of "Process Hollowing" using C#. Process Hollowing involves creating a new process and replacing its legitimate code with malicious shellcode. The shellcode executed by the process is responsible for performing unauthorized activities.
+This  console application demonstrates the technique of "Process Hollowing" using C#. Process Hollowing involves creating a new process and replacing its legitimate code with malicious shellcode. The shellcode executed by the process is responsible for performing unauthorized activities.
 
 ## Prerequisites
 
