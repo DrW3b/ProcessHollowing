@@ -41,5 +41,5 @@ To compile and execute this code, you need:
 
 ## Disclaimer
 
-**Warning: The code provided in this repository is for educational purposes only. Please use it responsibly and at your own risk. Executing shellcode and performing process hollowing can be malicious activities and may violate laws and regulations. Be aware of the potential legal consequences and only use this code in controlled environments with appropriate permissions. The author and OpenAI cannot be held responsible for any misuse or damages caused by the use of this code.**
+**Warning: The code provided in this repository is for educational purposes only. Please use it responsibly and at your own risk. Executing shellcode and performing process hollowing can be malicious activities and may violate laws and regulations. Be aware of the potential legal consequences and only use this code in controlled environments with appropriate permissions. The author cannot be held responsible for any misuse or damages caused by the use of this code.**
 Coded by DrW3B
